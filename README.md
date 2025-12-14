@@ -7,8 +7,8 @@ I'm always learning, experimenting, and looking for new challenges.
 
 ## Featured Project
 
-- [ClippedAI](https://shaarav4795.github.io/ClippedAI) – My best project (yet).
-- Building StudySnap - A project inspired by Quizlet that allows you to create flashcards, quizzes, and summaries from documents.
+- [ClippedAI](https://shaarav4795.github.io/ClippedAI) – An smart video cutter and resizer, similar to OpusClip.
+- [StudySnap](https://github.com/Shaarav4795/StudySnap) - A project inspired by Quizlet that allows you to create flashcards, quizzes, and summaries from documents.
 
 ---
 
@@ -22,7 +22,7 @@ I'm always learning, experimenting, and looking for new challenges.
 
 ---
 
-## Short Line
+## Quote
 
 *I'm too young to die...*
 
@@ -35,4 +35,4 @@ I'm always learning, experimenting, and looking for new challenges.
 
 ---
 
-*Did you know? Money is EVERYTHING (just kidding; can't say that on an open source platform)*
+*Did you know? Money is EVERYTHING (just kidding; can't say that on an open source platform* 😛 *lol)*
